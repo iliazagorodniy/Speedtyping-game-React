@@ -2,7 +2,7 @@
 project from Scrimba React bootcamp course styled with semantic ui
 
 ### Challenge 1: build the basic structure of our game 
-1. <h1> title at the top
+1. `<h1>` title at the top
 1. <textarea> for the box to type in (tip: React normalizes <textarea /> to be more like <input />, 
 so it can be used as a self-closing element and uses the `value` property to set its contents)
 1. <h4> to display the amount of time remaining
